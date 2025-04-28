@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic-Tac-Toe Game
 
 Welcome to the Tic Tac Toe Game, a responsive and visually appealing web application. This classic game allows two players to engage in a strategic battle for victory, and it's built using HTML, CSS, and JavaScript.
 
